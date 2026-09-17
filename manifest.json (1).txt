@@ -1,0 +1,10 @@
+{
+  "name": "100 Cars - 100 Levels Racing",
+  "short_name": "100 Cars Racing",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
